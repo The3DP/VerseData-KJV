@@ -5,7 +5,7 @@ We will display previous Bible verses as well.
 ---
 
 ## Bible verse for August 5th, 2026 (*Proverbs 13:13, KJV*):
-> ✞ **"Who despiseth the word shall be destroyed:
+> ✞ **"Whoso despiseth the word shall be destroyed:
 >  but he that feareth the commandment shall be
 > rewarded."**
 
