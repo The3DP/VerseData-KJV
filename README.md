@@ -1,3 +1,15 @@
+## VerseData
+Welcome to VerseData! This mini [**Github Pages**](https://docs.github.com/en/pages) site is usually updated manually every day for a new and exciting Bible verse. 
+We will display previous Bible verses as well.
+
+---
+
+
+
+
+
+---
+
 ### Questions?
 Any hanging questions?
 We've got answers.
