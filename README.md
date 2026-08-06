@@ -14,7 +14,7 @@ We will display previous Bible verses as well.
 >  but he that feareth the commandment shall be
 > rewarded."**
 
----
+--- 
 
 ### Questions?
 Any hanging questions?
