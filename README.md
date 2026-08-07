@@ -4,6 +4,10 @@ We will display previous Bible verses as well.
 
 ---
 
+## Bible verse for August 7th, 2026 (*Psalm 116:7, KJV*):
+> ✞ **"Return unto thy rest, O my soul; for the
+> Lord hath dealt bountifully with thee."**
+
 ## Bible verse for August 6th, 2026 (*Luke 8:17, KJV*):
 > ✞ **"For nothing is secret, that shall not be made
 > manifest; neither any thing hid, that shall not be
