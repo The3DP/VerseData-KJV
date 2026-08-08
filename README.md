@@ -4,6 +4,10 @@ We will display previous Bible verses as well.
 
 ---
 
+## Bible verse for August 8th, 2026 (*Matthew 12:37, KJV*):
+> ✞ **"For by thy words thou shalt be justified,
+> and by thy words thou shalt be condemned."**
+
 ## Bible verse for August 7th, 2026 (*Psalm 116:7, KJV*):
 > ✞ **"Return unto thy rest, O my soul; for the
 > Lord hath dealt bountifully with thee."**
