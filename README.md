@@ -4,6 +4,12 @@ We will display previous Bible verses as well.
 
 ---
 
+## Bible verse for August 9th, 2026 (*2nd Timothy 3:16-17, KJV*):
+> ✞ **"All scripture is given by inspiration of God,
+> and is profitable for doctrine for reproof, for correction,
+> for instruction in righteousness: that the man of God
+> may be perfect, throughly furnished unto all good works."**
+
 ## Bible verse for August 8th, 2026 (*Matthew 12:37, KJV*):
 > ✞ **"For by thy words thou shalt be justified,
 > and by thy words thou shalt be condemned."**
