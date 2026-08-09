@@ -6,7 +6,7 @@ We will display previous Bible verses as well.
 
 ## Bible verse for August 9th, 2026 (*2nd Timothy 3:16-17, KJV*):
 > ✞ **"All scripture is given by inspiration of God,
-> and is profitable for doctrine for reproof, for correction,
+> and is profitable for doctrine, for reproof, for correction,
 > for instruction in righteousness: that the man of God
 > may be perfect, throughly furnished unto all good works."**
 
