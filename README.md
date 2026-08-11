@@ -4,6 +4,12 @@ We will display previous Bible verses as well.
 
 ---
 
+## Bible verse for August 11th, 2026 (*Mark 9:49-50, KJV*):
+> ✞ **"For every one shall be salted with fire, and every
+> sacrifice shall be salted with salt. Salt is good: but if
+> the salt have lost his saltness, wherewith will ye season it?
+> Have salt in yourselves, and have peace one with another."**
+
 ## Bible verse for August 10th, 2026 (*John 7:18, KJV*):
 > ✞ **"He that speaketh of himself seeketh his own
 > glory: but he that seeketh his glory that sent him,
