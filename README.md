@@ -2,7 +2,7 @@
 Welcome to VerseData! This mini [**Github Pages**](https://docs.github.com/en/pages) site is usually updated manually every day for a new and exciting Bible verse. 
 We will display previous Bible verses as well.
 
-<img width="4032" height="3024" alt="IMG_2273" src="https://github.com/user-attachments/assets/359a4e7e-17e4-4b21-94ab-4083798c784c" />
+<img width="1008" height="756" alt="IMG_2273" src="https://github.com/user-attachments/assets/359a4e7e-17e4-4b21-94ab-4083798c784c" />
 
 ---
 
