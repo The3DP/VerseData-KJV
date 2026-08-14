@@ -6,6 +6,13 @@ We will display previous Bible verses as well.
 
 ---
 
+## Bible verse for August 14th, 2026 (*Hebrews 5:13-14, KJV*):
+> ✞ **"For every one that useth milk is unskilful in the
+> word of righteousness: for he is a babe. But strong meat
+> belongeth to them that are of full age, even those who by
+> reason of use have their senses exercised to discern
+> both good and evil."**
+
 ## Bible verse for August 12th, 2026 (*Romans 14:22, KJV*):
 > ✞ **"Hast thou faith? have it to thyself before God.
 > Happy is he that condemneth not himself in that thing
