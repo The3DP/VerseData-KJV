@@ -6,6 +6,12 @@ We will display previous Bible verses as well.
 
 ---
 
+## Bible verse for August 18th, 2026 (*Romans 1:20, KJV*):
+> ✞ **"For the invisible things of him from the creation
+> of the worldare clearly seen, being understood by
+> the things that are made, even his eternal power
+> and Godhead; so that they are without excuse."**
+
 ## Bible verse for August 14th, 2026 (*Hebrews 5:13-14, KJV*):
 > ✞ **"For every one that useth milk is unskilful in the
 > word of righteousness: for he is a babe. But strong meat
