@@ -6,6 +6,11 @@ We will display previous Bible verses as well.
 
 ---
 
+## Bible verse for August 22nd, 2026 (*Proverbs 28:13, KJV*):
+> ✞ **"He who covereth his sins shall not prosper:
+> but whoso confesseth and forsaketh them shall
+> have mercy."**
+
 ## Bible verse for August 18th, 2026 (*Romans 1:20, KJV*):
 > ✞ **"For the invisible things of him from the creation
 > of the worldare clearly seen, being understood by
